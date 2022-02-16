@@ -1,5 +1,12 @@
-<h2> Hi, I'm Leonardo! <img src="https://media.giphy.com/media/ZKzRqTPq6LdmSlcydj/giphy.gif" width="50"></h2>
+<div> <h2> Hi, I'm Leonardo! <img src="https://media.giphy.com/media/QWvra259h4LCvdJnxP/giphy.gif" width="40" ></h2> <div>
+  
+<p><em>Information Technologies at <a href="http://facpya.uanl.mx">FACPYA - Universidad Autonoma de Nuevo Leon</a>
 <!--
+ 
+<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+    
+[![Twitter: LeonardoIIG](https://img.shields.io/twitter/follow/LeonardoIIG?style=social)](https://twitter.com/LeonardoIIG)
+[![Linkedin: LeonardoIIG](https://img.shields.io/badge/-LeonardoIIG-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/LeonardoIIG/)](https://www.linkedin.com/in/LeonardoIIG/)
 
 **LeonardoIIG/LeonardoIIG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
