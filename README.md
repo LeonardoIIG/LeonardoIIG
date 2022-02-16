@@ -1,5 +1,6 @@
 ### Hi, I'm Leonardo ✌👨‍💻
 
+![68747470733a2f2f692e696d6775722e636f6d2f6d3549653450372e676966](https://user-images.githubusercontent.com/59178381/154245834-1ec6c8a7-893a-414d-8545-07e27943b1c2.gif)
 <!--
 **LeonardoIIG/LeonardoIIG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
